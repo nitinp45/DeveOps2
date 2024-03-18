@@ -1,6 +1,5 @@
 Java
 Python
 C++
-Rust 
-R
-Go
+C
+JavaScript
